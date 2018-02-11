@@ -1,0 +1,38 @@
+#logo_Text
+{
+	font-size: 3em;
+	color: white
+}
+
+#logo_Mark
+{
+	width: 3em;
+	height: auto;
+}
+
+#menu
+{
+	text-align: left;
+	background-color: black;
+	text-size: 2em;
+}
+
+#navbar
+{
+	background-color: black;
+	text-align: right;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-right: 2em;
+	text-size: 2em;
+}
+
+a{
+		color: white;
+		text-decoration: none;
+		font-style: normal;	
+}
+
+.wf-mplus1p {
+	font-family: "Mplus 1p";
+}
